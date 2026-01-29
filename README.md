@@ -3,12 +3,12 @@
 Unity上でRay MarchingのShaderを簡単に記述できる教材パッケージです！  
 「アバターなんもわからん集会」での講演で使用する教材として作成されました！  
 
-![](Images/Slide_1.png)  
-![](Images/Slide_2.png)  
-![](Images/Slide_3.png)  
-![](Images/Slide_4.png)  
-![](Images/Slide_5.png)  
-![](Images/Slide_6.png)  
+![](Images/Slide_1.PNG)  
+![](Images/Slide_2.PNG)  
+![](Images/Slide_3.PNG)  
+![](Images/Slide_4.PNG)  
+![](Images/Slide_5.PNG)  
+![](Images/Slide_6.PNG)  
 
 ## 📝 概要
 
